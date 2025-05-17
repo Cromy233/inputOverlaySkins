@@ -1,0 +1,123 @@
+{
+    "default_width": 243,
+    "default_height": 243,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 0,
+    "overlay_width": 1002,
+    "overlay_height": 641,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                253,
+                506
+            ],
+            "id": "space",
+            "z_level": "0",
+            "mapping": [
+                972,
+                0,
+                749,
+                135
+            ],
+            "code": 57
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                253
+            ],
+            "id": "shift",
+            "z_level": "0",
+            "mapping": [
+                1721,
+                0,
+                243,
+                243
+            ],
+            "code": 42
+        },
+        {
+            "type": 1,
+            "pos": [
+                506,
+                0
+            ],
+            "id": "W",
+            "z_level": "1",
+            "mapping": [
+                0,
+                0,
+                243,
+                243
+            ],
+            "code": 17
+        },
+        {
+            "type": 1,
+            "pos": [
+                253,
+                253
+            ],
+            "id": "A",
+            "z_level": "1",
+            "mapping": [
+                243,
+                0,
+                243,
+                243
+            ],
+            "code": 30
+        },
+        {
+            "type": 1,
+            "pos": [
+                506,
+                253
+            ],
+            "id": "S",
+            "z_level": "1",
+            "mapping": [
+                486,
+                0,
+                243,
+                243
+            ],
+            "code": 31
+        },
+        {
+            "type": 1,
+            "pos": [
+                759,
+                253
+            ],
+            "id": "D",
+            "z_level": "1",
+            "mapping": [
+                729,
+                0,
+                243,
+                243
+            ],
+            "code": 32
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                506
+            ],
+            "id": "ctrl",
+            "z_level": "0",
+            "mapping": [
+                1964,
+                0,
+                243,
+                135
+            ],
+            "code": 29
+        }
+    ]
+}
